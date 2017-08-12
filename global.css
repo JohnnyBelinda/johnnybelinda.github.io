@@ -1,0 +1,21 @@
+body {background-color: pink}
+
+#dog {
+font-weight:bolder;
+font-size:20px;
+}
+#dog {
+	transition: 2s ease-in-out;
+	}
+.bounce {
+	transform:translate(700px);
+	color:purple;
+
+}
+img {
+	border-radius: 360px;
+	padding: 25px;
+}
+#images {
+	text-align: center;
+}
